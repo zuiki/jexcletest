@@ -1,5 +1,6 @@
 import Default from "@/components/Default.vue";
 import HelloWorld from "@/components/HelloWorld.vue";
+import ProjectForm from "@/components/ProjectForm.vue";
 
 export const routes = [
   {
